@@ -1,0 +1,12 @@
+{
+	"folders": [],
+	"settings": {
+		"editor.quickSuggestions": true,
+		"editor.suggest.shareSuggestSelections": true,
+		"editor.renderWhitespace": "boundary",
+		"editor.cursorStyle": "block-outline",
+		"editor.wordWrap": "on",
+		"editor.emptySelectionClipboard": false,
+		"editor.mouseWheelZoom": true
+	}
+}
